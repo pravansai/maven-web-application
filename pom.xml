@@ -97,7 +97,6 @@
 		</dependency>
 		
 	</dependencies>
-	<!--
 	
 	<distributionManagement>
 	
@@ -114,7 +113,6 @@
 	    </snapshotRepository>
 	    
 	</distributionManagement>
--->
 	
 	<build>
 		<finalName>maven-web-application</finalName>
